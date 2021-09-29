@@ -10,3 +10,5 @@ List of the main features:
 4. Showing record of expenses using backend database,
 5. User profile page,
 6. Entire project made using session cookies.
+
+Xampp which support PHP 7.x is needed to run this project.
